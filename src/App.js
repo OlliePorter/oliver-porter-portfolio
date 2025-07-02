@@ -24,7 +24,8 @@ function App() {
 		<div className="App">
 			<Routes>
 				<Route path="/" element={<Homepage />} />
-				<Route path="/about" element={<About />} />
+				{/* TODO: Add back about when needed */}
+				{/* <Route path="/about" element={<About />} /> */}
 				<Route path="/projects" element={<Projects />} />
 				{/* TODO: Add back articles when needed */}
 				{/* <Route path="/articles" element={<Articles />} />

@@ -21,7 +21,8 @@ const NavBar = (props) => {
 							>
 								<Link to="/">Home</Link>
 							</li>
-							<li
+							{/* TODO: Add back about when needed */}
+							{/* <li
 								className={
 									active === "about"
 										? "nav-item active"
@@ -29,7 +30,7 @@ const NavBar = (props) => {
 								}
 							>
 								<Link to="/about">About</Link>
-							</li>
+							</li> */}
 							<li
 								className={
 									active === "projects"
