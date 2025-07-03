@@ -96,8 +96,15 @@
 }
 
 .homepage-works {
-	flex-basis: 600px;
+	display: flex;
+	flex-direction: row;
+	flex-basis: 100%;
 	padding-top: 30px;
+	justify-content: space-between;
+
+	@media (max-width: 1024px) {
+		flex-direction: column;
+	}
 }
 
 @media (max-width: 1024px) {
@@ -107,7 +114,7 @@
 
 	.homepage-first-area-left-side {
 		display: flex;
-		flex-direction: column; /* Changed: set direction to column */
+		flex-direction: column;
 		align-items: flex-start;
 		width: 100%;
 		order: 2;

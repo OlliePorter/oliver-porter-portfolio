@@ -18,13 +18,13 @@ const INFO = {
 	homepage: {
 		title: "Hi, I'm Oliver.",
 		description:
-			"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped features to iOS, Android, and the browser.",
+			"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 	},
 
 	about: {
 		title: "Hi, I'm Oliver.",
 		description:
-						"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped features to iOS, Android, and the browser.",
+						"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 	},
 
 	articles: {

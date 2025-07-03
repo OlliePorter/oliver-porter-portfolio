@@ -176,6 +176,7 @@ const Homepage = () => {
 
 							<div className="homepage-works">
 								<Works />
+								<Works />
 							</div>
 						</div>
 
