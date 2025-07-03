@@ -35,48 +35,63 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Mobile Augmented-Reality Game",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Flutter and Firebase mobile bitcoin adventure game to promote financial literacy among the next generation. Winner of Top Builder 2025.",
+			logo: "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
+			linkTextWebsite: "Site",
+			linkWebsite: "https://jippi.app",
+			linkTextCode: "Code",
+			linkCode: "https://github.com/Jippi-App",
+			role: "Mobile Software Engineer"
 		},
 
 		{
-			title: "Project 2",
+			title: "Mobile Bitcoin Exchange",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Flutter and Firebase mobile bitcoin exchange app for easy access to bitcoin purchases for 150,000 Swan clients.",
+			logo: "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
+			linkTextWebsite: "Site",
+			linkWebsite: "https://www.swanbitcoin.com",
+			linkTextCode: "Code",
+			linkCode: "https://github.com/swan-bitcoin",
+			role: "Mobile Software Engineer"
 		},
 
 		{
-			title: "Project 3",
+			title: "Web Blockchain Explorer",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Flutter web app for navigating different levels of the Topl blockchain through fun & friendly UI experiences for blockchain beginners.",
+			logo: "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
+			linkTextWebsite: "Site",
+			linkWebsite: "https://topl.co",
+			linkTextCode: "Code",
+			linkCode: "https://github.com/OlliePorter/blockchain_explorer",
+			role: "Front-End Software Engineer"
 		},
 
 		{
-			title: "Project 4",
+			title: "Mobile Bitcoin Wallet",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"React Native proof-of-concept mobile bitcoin wallet for sending and receiving mock bitcoin using Redux for state management & Jest for testing.",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png",
+			linkTextWebsite: "Site",
+			linkWebsite: "https://reactnative.dev",
+			linkTextCode: "Code",
+			linkCode: "https://github.com/OlliePorter/bitcoin-wallet",
+			role: "Front-End Software Engineer"
 		},
 
 		{
-			title: "Project 5",
+			title: "Web Medical Scheduling Platform",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"React web app for medical appointment scheduling. This tool was vital for supporting Florence's Series B fundraising efforts.",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png",
+			linkTextWebsite: "Site",
+			linkWebsite: "https://www.florence.co.uk",
+			linkTextCode: "Code",
+			linkCode: "https://github.com/team-florence",
+			role: "Front-End Software Engineer"
 		},
 	],
 };
