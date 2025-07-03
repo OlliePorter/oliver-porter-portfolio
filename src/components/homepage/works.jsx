@@ -5,6 +5,8 @@ import Card from "../common/card";
 
 import "./styles/works.css";
 
+import INFO from "../../data/user";
+
 const Works = () => {
 	return (
 		<div className="works">
@@ -13,31 +15,22 @@ const Works = () => {
 				title="Work History"
 				body={
 					<div className="works-body">
-						<div className="work">
-							<img
-								src="./facebook.png"
-								alt="facebook"
-								className="work-image"
-							/>
-							<div className="work-title">Facebook</div>
-							<div className="work-subtitle">
-								Software Engineer
+						{INFO.workExperience.map((item) => (
+							<div className="work">
+								<img
+									src={item.logo}
+									alt="company logo"
+									className="work-image"
+								/>
+								<div className="work-title">{item.title}</div>
+								<div className="work-subtitle">
+									{item.subtitle}
+								</div>
+								<div className="work-duration">
+									{item.dateString}
+								</div>
 							</div>
-							<div className="work-duration">2019 - Present</div>
-						</div>
-
-						<div className="work">
-							<img
-								src="./twitter.png"
-								alt="twitter"
-								className="work-image"
-							/>
-							<div className="work-title">Twitter</div>
-							<div className="work-subtitle">
-								Software Engineer
-							</div>
-							<div className="work-duration">2019 - Present</div>
-						</div>
+						))}
 					</div>
 				}
 			/>

@@ -94,6 +94,50 @@ const INFO = {
 			role: "Front-End Software Engineer"
 		},
 	],
+	workExperience: [
+		{ 
+			logo: "./jippi.png",
+			title: "Jippi",
+			subtitle: "Mobile Software Engineer",
+			dateString: "Jul 2024 - Present",
+		},
+		{ 
+			logo: "./swan.png",
+			title: "Swan Bitcoin",
+			subtitle: "Mobile Software Engineer",
+			dateString: "Mar 2023 - Jul 2024",
+		},
+		{ 
+			logo: "./topl.png",
+			title: "Topl",
+			subtitle: "Front-End Software Engineer",
+			dateString: "Feb 2022 - Feb 2023",
+		},
+		{ 
+			logo: "./florence.png",
+			title: "Florence",
+			subtitle: "Front-End Software Engineer",
+			dateString: "Jul 2020 to Dec 2021",
+		},
+		{ 
+			logo: "./sb.png",
+			title: "Simply Business",
+			subtitle: "Junior Software Engineer",
+			dateString: "Apr 2019 to Jun 2020",
+		},
+		{ 
+			logo: "./makers.png",
+			title: "Makers Academy",
+			subtitle: "Product Manager",
+			dateString: "Apr 2018 to Jun 2019",
+		},
+		{ 
+			logo: "./makers.png",
+			title: "Makers Academy",
+			subtitle: "Lead Admissions Manager",
+			dateString: "Aug 2015 to Sep 2017",
+		},
+	],
 };
 
 export default INFO;
