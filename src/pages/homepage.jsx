@@ -27,6 +27,7 @@ import SEO from "../data/seo";
 import myArticles from "../data/articles";
 
 import "./styles/homepage.css";
+import Education from "../components/homepage/education";
 
 const Homepage = () => {
 	const [stayLogo, setStayLogo] = useState(false);
@@ -176,7 +177,7 @@ const Homepage = () => {
 
 							<div className="homepage-works">
 								<Works />
-								<Works />
+								<Education />
 							</div>
 						</div>
 

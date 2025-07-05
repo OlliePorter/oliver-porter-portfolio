@@ -138,6 +138,26 @@ const INFO = {
 			dateString: "Aug 2015 to Sep 2017",
 		},
 	],
+	education: [
+		{ 
+			logo: "./makers.png",
+			title: "Associates Degree, Software Engineering",
+			subtitle: "Makers Academy",
+			dateString: "Mar 2020",
+		},
+		{ 
+			logo: "./fcc.png",
+			title: "Responsive Web Design Certification",
+			subtitle: "freeCodeCamp",
+			dateString: "Apr 2019",
+		},
+		{ 
+			logo: "./ps.png",
+			title: "Software Product Management Certification",
+			subtitle: "Product School",
+			dateString: "Mar 2018",
+		},
+	],
 };
 
 export default INFO;
