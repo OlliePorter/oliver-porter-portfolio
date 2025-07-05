@@ -2,36 +2,26 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+		keywords: ["Oliver", "Oliver P", "Oliver Porter"],
 	},
-
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+		keywords: ["Oliver", "Oliver P", "Oliver Porter"],
 	},
-
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
-
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I've worked on high-impact projects across bitcoin, blockchain, and healthcare, where I bring nearly 10 years of multi-disciplinary startup experience across engineering, UI/UX design, and product roles. For the past 6 years, I've specialized as a front-end software engineer, combining meticulous design instincts in Figma with solid coding expertise in React and Flutter. I take pride in shipping polished, user-focused features that feel seamless and intuitive.",
+		keywords: ["Oliver", "Oliver P", "Oliver Porter"],
 	},
-
 	{
 		page: "contact",
 		description:
 			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		keywords: ["Oliver", "Oliver P", "Oliver Porter"],
 	},
 ];
 

@@ -25,7 +25,11 @@ const Footer = () => {
 							<Link to="/articles">Articles</Link>
 						</li> */}
 						<li className="footer-nav-link-item">
-							<Link to={`mailto:${INFO.main.email}`}>
+							<Link
+								to={`mailto:${INFO.main.email}`}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								Contact
 							</Link>
 						</li>

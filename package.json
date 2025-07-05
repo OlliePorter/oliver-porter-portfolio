@@ -1,11 +1,10 @@
 {
-	"name": "reactfolio",
-	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
+	"name": "oliver-porter-portfolio",
+	"version": "1.0.0",
+	"description": "Personal portfolio built using React",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Oliver Porter",
+		"email": "ol.porter@me.com"
 	},
 	"license": "MIT",
 	"private": true,
