@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import INFO from "../../data/user";
 
 import "./styles/footer.css";
 
@@ -24,7 +25,9 @@ const Footer = () => {
 							<Link to="/articles">Articles</Link>
 						</li> */}
 						<li className="footer-nav-link-item">
-							<Link to="/contact">Contact</Link>
+							<Link to={`mailto:${INFO.main.email}`}>
+								Contact
+							</Link>
 						</li>
 					</ul>
 				</div>

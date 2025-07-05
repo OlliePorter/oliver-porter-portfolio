@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import INFO from "../../data/user";
 
 import "./styles/navBar.css";
 
@@ -57,7 +58,9 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/contact">Contact</Link>
+								<Link to={`mailto:${INFO.main.email}`}>
+									Contact
+								</Link>
 							</li>
 						</ul>
 					</div>
