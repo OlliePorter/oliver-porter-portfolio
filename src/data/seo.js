@@ -2,13 +2,13 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+			"Front-end software engineer with 6 years of experience building user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 		keywords: ["Oliver", "Oliver P", "Oliver Porter"],
 	},
 	{
 		page: "about",
 		description:
-			"Front-end software engineer with 6 years of experience building polished, user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+			"Front-end software engineer with 6 years of experience building user-friendly apps across bitcoin, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I’ve led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 		keywords: ["Oliver", "Oliver P", "Oliver Porter"],
 	},
 	{
