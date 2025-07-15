@@ -98,13 +98,13 @@ const INFO = {
 		{ 
 			logo: "./jippi.png",
 			title: "Jippi",
-			subtitle: "Mobile Software Engineer",
+			subtitle: "Front-End Software Engineer",
 			dateString: "Jul 2024 - Present",
 		},
 		{ 
 			logo: "./swan.png",
 			title: "Swan Bitcoin",
-			subtitle: "Mobile Software Engineer",
+			subtitle: "Front-End Software Engineer",
 			dateString: "Mar 2023 - Jul 2024",
 		},
 		{ 
