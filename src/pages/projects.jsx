@@ -43,7 +43,7 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on high-impact projects across bitcoin,
+							I've worked on high-impact projects across finance,
 							blockchain, and healthcare, where I bring nearly 10
 							years of multi-disciplinary startup experience
 							across engineering, UI/UX design, and product roles.
