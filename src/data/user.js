@@ -43,7 +43,7 @@ const INFO = {
 			linkWebsite: "https://jippi.app",
 			linkTextCode: "Code",
 			linkCode: "https://github.com/Jippi-App",
-			role: "Mobile Software Engineer"
+			role: "Front-end Software Engineer"
 		},
 
 		{
@@ -55,7 +55,7 @@ const INFO = {
 			linkWebsite: "https://www.swanbitcoin.com",
 			linkTextCode: "Code",
 			linkCode: "https://github.com/swan-bitcoin",
-			role: "Mobile Software Engineer"
+			role: "Front-end Software Engineer"
 		},
 
 		{
