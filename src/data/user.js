@@ -18,13 +18,13 @@ const INFO = {
 	homepage: {
 		title: "Hi, I'm Oliver.",
 		description:
-			"Front-end software engineer with a track record of delivering high-impact results in industries such as finance, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+			"Front-end software engineer with a track record of delivering high-impact results in industries such as finance, blockchain, healthcare, and education. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 	},
 
 	about: {
 		title: "Hi, I'm Oliver.",
 		description:
-						"Front-end software engineer with a track record of delivering high-impact results in industries such as finance, blockchain, and healthcare. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+						"Front-end software engineer with a track record of delivering high-impact results in industries such as finance, blockchain, healthcare, and education. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 	},
 
 	articles: {
@@ -37,7 +37,7 @@ const INFO = {
 		{
 			title: "Mobile Augmented-Reality Game",
 			description:
-				"Flutter and Firebase mobile bitcoin adventure game to promote financial literacy among the next generation. Winner of Top Builder 2025.",
+				"Flutter and Firebase mobile AR education game to promote financial literacy among younger generations. Winner of Top Builder 2025.",
 			logo: "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
 			linkTextWebsite: "Site",
 			linkWebsite: "https://jippi.app",
@@ -85,7 +85,7 @@ const INFO = {
 		{
 			title: "Web Medical Scheduling Platform",
 			description:
-				"React web app for medical appointment scheduling. This tool was vital for supporting Florence's Series B fundraising efforts.",
+				"React & Redux scheduling platform that streamlined staffing operations for over 100,000 medical workers across 600+ healthcare facilities.",
 			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png",
 			linkTextWebsite: "Site",
 			linkWebsite: "https://www.florence.co.uk",
@@ -129,7 +129,7 @@ const INFO = {
 			logo: "./makers.png",
 			title: "Makers Academy",
 			subtitle: "Product Manager",
-			dateString: "Apr 2018 to Jun 2019",
+			dateString: "Apr 2018 to Apr 2019",
 		},
 		{ 
 			logo: "./makers.png",

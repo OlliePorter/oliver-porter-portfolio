@@ -44,15 +44,15 @@ const Projects = () => {
 
 						<div className="subtitle projects-subtitle">
 							I've worked on high-impact projects across finance,
-							blockchain, and healthcare, where I bring nearly 10
-							years of multi-disciplinary startup experience
-							across engineering, UI/UX design, and product roles.
-							For the past 6 years, I've specialized as a
-							front-end software engineer, combining meticulous
-							design instincts in Figma with solid coding
-							expertise in React and Flutter. I take pride in
-							shipping polished, user-focused features that feel
-							seamless and intuitive.
+							blockchain, healthcare, and education, where I bring
+							nearly 10 years of multi-disciplinary startup
+							experience across engineering, UI/UX design, and
+							product roles. For the past 6 years, I've
+							specialized as a front-end software engineer,
+							combining meticulous design instincts in Figma with
+							solid coding expertise in React and Flutter. I take
+							pride in shipping polished, user-focused features
+							that feel seamless and intuitive.
 						</div>
 
 						<div className="projects-list">
