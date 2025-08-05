@@ -120,50 +120,86 @@ const INFO = {
 		{ 
 			logo: "./jippi.png",
 			title: "Jippi",
-			subtitle: "Front-End Software Engineer",
+			subtitle: "Software Engineer, UI/UX Designer, Founder",
 			dateString: "Oct 2024 - Present",
+			responsibilities: [
+							"Led the design and implementation of a mobile augmented reality education game utilizing Flutter and Firebase, which won the Top Builder 2025 competition and $15,000 in prize money.",
+							"Spearheaded UI/UX design processes in Figma, resulting in 30+ high-fidelity prototype screens.",
+							"Deployed mobile app across Apple App Store and Google Play platforms, driving an average monthly user growth of 60% by enhancing usability and gamified engagement features.",
+			],
 		},
 		{ 
 			logo: "./yopaki.png",
 			title: "Yopaki",
 			subtitle: "UI/UX Designer (Contract)",
 			dateString: "Aug 2023 - Oct 2024",
+			responsibilities: [
+				"Designed 27+ interactive Figma prototype screens for a next-gen consumer finance app, streamlining complex financial workflows into beginner-friendly user journeys.",
+				"Created engaging, high-conversion app store assets (screenshots, visuals) in Figma to drive visibility and attract first-time users.",
+				"Led the redesign of Yopaki's marketing website using modern UX patterns, improving clarity, visual hierarchy, and mobile responsiveness.",
+				"Collaborated closely with CEO and CTO to architect intuitive wireframes for intricate financial products, simplifying onboarding for non-technical users."
+			],
 		},
 		{ 
 			logo: "./swan.png",
 			title: "Swan Bitcoin",
 			subtitle: "Front-End Software Engineer",
 			dateString: "Mar 2023 - Jul 2024",
+			responsibilities: [
+				"Owned front-end user experience for a mobile finance app used by 150,000 clients to manage recurring deposits, withdrawals, and digital asset portfolios.",
+				"Conducted user experience optimization for customer login by delivering biometrics authentication feature, resulting in a 90% adoption rate among newly onboarded customers.",
+				"Collaborated closely with lead product designer to ship 20+ UI enhancements, contributing to an estimated 133% increase in 5-star app reviews.",
+			],
 		},
 		{ 
 			logo: "./topl.png",
 			title: "Topl",
 			subtitle: "Front-End Software Engineer",
 			dateString: "Feb 2022 - Feb 2023",
+			responsibilities: [
+				"Created a reusable component library with Flutter and Storybook, reducing UI review time by 83% through improved team feedback loops.",
+				"Developed an eco-conscious blockchain wallet application with Flutter, Firebase, and Redux that facilitated transparent tracking of sustainable coffee production and ethically sourced diamonds, with an emphasis on intuitive UI/UX for blockchain newcomers.",
+			],
 		},
 		{ 
 			logo: "./florence.png",
 			title: "Florence",
 			subtitle: "Front-End Software Engineer",
 			dateString: "Jul 2020 to Dec 2021",
+			responsibilities: [
+				"Engineered a React and Redux-based SaaS scheduling platform that streamlined staffing operations, successfully managing over 100,000 medical workers across 600+ healthcare facilities nationwide.",
+				"Migrated legacy Rails architecture to modern, reusable React components, using Jest and Enzyme testing frameworks to achieve over 85% unit and integration test coverage.",
+				"Partnered with back-end engineers to optimize RESTful API integrations, enhancing app responsiveness.",
+			],
 		},
 		{ 
 			logo: "./sb.png",
 			title: "Simply Business",
 			subtitle: "Junior Software Engineer",
 			dateString: "Apr 2019 to Jun 2020",
+			responsibilities: [
+				"Implemented dynamic React UI banner components, facilitating extensive A/B testing that boosted user engagement rates for new insurance business verticals by 15%.",
+			],
 		},
 		{ 
 			logo: "./makers.png",
 			title: "Makers Academy",
 			subtitle: "Product Manager",
 			dateString: "Apr 2018 to Apr 2019",
+			responsibilities: [
+				"Launched onboarding candidate filtering platform to improve admissions efficiency by 66% and bring in $2.4 million in annual revenue.",
+				"Worked with key business stakeholders to define new automated customer journeys from application to employer matchmaking stages, with a focus on maintaining a high NPS score of 80+.",
+			],
 		},
 		{ 
 			logo: "./makers.png",
 			title: "Makers Academy",
 			subtitle: "Lead Admissions Manager",
 			dateString: "Aug 2015 to Sep 2017",
+			responsibilities: [
+				"Facilitated candidate assessment for a top-tier educational tech program, conducting 20+ technical interviews per week to evaluate problem‑solving aptitude and readiness for rigorous software training.",
+				"Managed CRM-driven conversion of hundreds of incoming marketing leads into enrolled students—effectively guiding prospects through each stage of the funnel and helping each student commit to a $12K program.",
+			],
 		},
 	],
 	education: [

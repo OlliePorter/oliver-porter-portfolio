@@ -16,18 +16,24 @@ const Education = () => {
 				body={
 					<div className="works-body">
 						{INFO.education.map((item) => (
-							<div className="work">
-								<img
-									src={item.logo}
-									alt="company logo"
-									className="work-image"
-								/>
-								<div className="work-title">{item.title}</div>
-								<div className="work-subtitle">
-									{item.subtitle}
-								</div>
-								<div className="work-duration">
-									{item.dateString}
+							<div className="work-container">
+								<div className="work-row">
+									<img
+										src={item.logo}
+										alt="company logo"
+										className="work-image"
+									/>
+									<div className="work-column">
+										<div className="work-title">
+											{item.title}
+										</div>
+										<div className="work-subtitle">
+											{item.subtitle}
+										</div>
+										<div className="work-duration">
+											{item.dateString}
+										</div>
+									</div>
 								</div>
 							</div>
 						))}

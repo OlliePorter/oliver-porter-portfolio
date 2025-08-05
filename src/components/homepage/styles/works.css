@@ -1,13 +1,38 @@
 @import "../../../data/styles.css";
 
+.works {
+	margin-bottom: 60px;
+}
+
 .works-body {
 	margin-bottom: 10px;
 }
 
-.work {
+.work-container {
 	display: flex;
+	flex-direction: column;
 	padding-bottom: 40px;
-	width: 400px;
+
+	.work-row {
+		display: flex;
+		width: 400px;
+
+		.work-column {
+			display: flex;
+			flex-direction: column;
+			margin-left: 20px;
+			justify-content: end;
+		}
+	}
+
+	ul {
+		padding-left: 4em;
+
+		li {
+			color: var(--secondary-color);
+			font-size: 15px;
+		}
+	}
 }
 
 .work-image {
@@ -21,24 +46,16 @@
 .work-title {
 	font-size: 15px;
 	font-weight: 700;
-	padding-left: 20px;
 	margin-top: -3px;
 	color: var(--secondary-color);
 }
 
 .work-subtitle {
-	position: absolute;
-	font-size: 12px;
-	color: var(--secondary-color);
-	padding-top: 22px;
-	padding-left: 50px;
+	font-size: 15px;
+	color: var(--tertiary-color);
 }
 
 .work-duration {
-	position: absolute;
-	width: 350px;
-	font-size: 12px;
-	padding-top: 20px;
-	text-align: right;
+	font-size: 15px;
 	color: var(--tertiary-color);
 }
