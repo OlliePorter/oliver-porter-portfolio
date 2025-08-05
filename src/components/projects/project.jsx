@@ -4,8 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGlobe } from "@fortawesome/free-solid-svg-icons";
 
 import "./styles/project.css";
-import { faGit } from "@fortawesome/free-brands-svg-icons/faGit";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faFigma, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 const Project = (props) => {
 	const {
@@ -16,6 +15,8 @@ const Project = (props) => {
 		linkWebsite,
 		linkTextCode,
 		linkCode,
+		linkTextDesign,
+		linkDesign,
 	} = props;
 
 	return (
@@ -28,34 +29,54 @@ const Project = (props) => {
 					<div className="project-title">{title}</div>
 					<div className="project-description">{description}</div>
 					<div className="project-links-row">
-						<Link
-							to={linkWebsite}
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<div className="project-link">
-								<div className="project-link-icon">
-									<FontAwesomeIcon icon={faGlobe} />
+						{linkWebsite && (
+							<Link
+								to={linkWebsite}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<div className="project-link">
+									<div className="project-link-icon">
+										<FontAwesomeIcon icon={faGlobe} />
+									</div>
+									<div className="project-link-text">
+										{linkTextWebsite}
+									</div>
 								</div>
-								<div className="project-link-text">
-									{linkTextWebsite}
+							</Link>
+						)}
+						{linkCode && (
+							<Link
+								to={linkCode}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<div className="project-link">
+									<div className="project-link-icon">
+										<FontAwesomeIcon icon={faGithub} />
+									</div>
+									<div className="project-link-text">
+										{linkTextCode}
+									</div>
 								</div>
-							</div>
-						</Link>
-						<Link
-							to={linkCode}
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<div className="project-link">
-								<div className="project-link-icon">
-									<FontAwesomeIcon icon={faGithub} />
+							</Link>
+						)}
+						{linkDesign && (
+							<Link
+								to={linkDesign}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								<div className="project-link">
+									<div className="project-link-icon">
+										<FontAwesomeIcon icon={faFigma} />
+									</div>
+									<div className="project-link-text">
+										{linkTextDesign}
+									</div>
 								</div>
-								<div className="project-link-text">
-									{linkTextCode}
-								</div>
-							</div>
-						</Link>
+							</Link>
+						)}
 					</div>
 				</div>
 			</div>

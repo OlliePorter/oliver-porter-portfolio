@@ -20,6 +20,8 @@ const AllProjects = () => {
 						linkWebsite={project.linkWebsite}
 						linkTextCode={project.linkTextCode}
 						linkCode={project.linkCode}
+						linkTextDesign={project.linkTextDesign}
+						linkDesign={project.linkDesign}
 					/>
 				</div>
 			))}
