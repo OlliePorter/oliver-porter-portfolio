@@ -18,13 +18,13 @@ const INFO = {
 	homepage: {
 		title: "Hi, I'm Oliver.",
 		description:
-			"Front-end software engineer and UI/UX designer with a track record of delivering high-impact results in industries such as finance, blockchain, healthcare, and education. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+			"Design-focused software engineer with 6+ years of experience delivering high-impact results in industries such as finance, blockchain, healthcare, and education. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 	},
 
 	about: {
 		title: "Hi, I'm Oliver.",
 		description:
-						"Front-end software engineer and UI/UX designer with a track record of delivering high-impact results in industries such as finance, blockchain, healthcare, and education. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
+						"Design-focused software engineer with 6+ years of experience delivering high-impact results in industries such as finance, blockchain, healthcare, and education. I specialize in React and Flutter, crafting seamless, pixel-perfect experiences for web and mobile. I've led UI design from the ground up in Figma, built cohesive design systems with Storybook, and shipped polished features to iOS, Android, and the browser.",
 	},
 
 	articles: {
@@ -120,7 +120,7 @@ const INFO = {
 		{ 
 			logo: "./jippi.png",
 			title: "Jippi",
-			subtitle: "Software Engineer, UI/UX Designer, Founder",
+			subtitle: "Senior Mobile Software Engineer, Founder",
 			dateString: "Oct 2024 - Present",
 			responsibilities: [
 							"Led the design and implementation of a mobile augmented reality education game utilizing Flutter and Firebase, which won the Top Builder 2025 competition and $15,000 in prize money.",
@@ -143,7 +143,7 @@ const INFO = {
 		{ 
 			logo: "./swan.png",
 			title: "Swan Bitcoin",
-			subtitle: "Front-End Software Engineer",
+			subtitle: "Senior Mobile Software Engineer",
 			dateString: "Mar 2023 - Jul 2024",
 			responsibilities: [
 				"Owned front-end user experience for a mobile finance app used by 150,000 clients to manage recurring deposits, withdrawals, and digital asset portfolios.",
@@ -154,7 +154,7 @@ const INFO = {
 		{ 
 			logo: "./topl.png",
 			title: "Topl",
-			subtitle: "Front-End Software Engineer",
+			subtitle: "Mobile Software Engineer",
 			dateString: "Feb 2022 - Feb 2023",
 			responsibilities: [
 				"Created a reusable component library with Flutter and Storybook, reducing UI review time by 83% through improved team feedback loops.",
@@ -175,7 +175,7 @@ const INFO = {
 		{ 
 			logo: "./sb.png",
 			title: "Simply Business",
-			subtitle: "Junior Software Engineer",
+			subtitle: "Junior Front-End Software Engineer",
 			dateString: "Apr 2019 to Jun 2020",
 			responsibilities: [
 				"Implemented dynamic React UI banner components, facilitating extensive A/B testing that boosted user engagement rates for new insurance business verticals by 15%.",
